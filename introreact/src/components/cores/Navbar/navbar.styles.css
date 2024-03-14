@@ -1,0 +1,10 @@
+.navbar{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  color: pink;
+  background-color: maroon;
+  border: 3px solid black;
+  border-radius: 10px;
+
+}
